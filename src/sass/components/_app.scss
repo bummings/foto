@@ -1,8 +1,10 @@
 .app {
-  color: red;
-  font-size: 9rem;
-
   &__header {
-    color: red;
+    font-size: 12rem;
+    margin: 0;
+  }
+
+  &__text {
+    font-size: 2rem;
   }
 }

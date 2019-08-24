@@ -1,3 +1,11 @@
 @import './sass/base/fonts';
 
 @import './sass/components/app';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 10px; // base 10 for REM sizing.
+  font-family: $font-primary;
+  background-color: salmon;
+}
